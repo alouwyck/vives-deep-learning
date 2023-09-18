@@ -1,0 +1,9 @@
+Patient (P);Cough (C);Fever (F);Difficulty breathing (B);Tiredness (T);Diagnosis (D)
+1;;X;X;X;sick
+2;X;X;;X;sick
+3;X;;X;X;sick
+4;X;X;X;;sick
+5;X;;;X;healthy
+6;;X;X;;healthy
+7;;X;;;healthy
+8;;;;X;healthy
