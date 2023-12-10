@@ -7,3 +7,4 @@ The course uses the excellent textbook ["Deep Learning with Python (2nd Ed.)"](h
 - Topics 1 to 14 correspond to chapters 1 to 14 from the book by Chollet. Missing topics are chapters without code examples or chapters that were not treated in class. See Toledo for an overview of the course material.
 - Topic 15 is the [PyTorch tutorial for beginners](https://pytorch.org/tutorials/beginner/basics/intro.html)
 - Topic 16 is the online [course on diffusion models](https://learn.deeplearning.ai/diffusion-models) by [deeplearning.ai](https://www.deeplearning.ai/)
+- Topic 17 is an introduction to [Hugging Face](https://huggingface.co/) and to [Gradio](https://www.gradio.app/). The second notebook is from the online course [Building Generative AI Applications with Gradio](https://learn.deeplearning.ai/huggingface-gradio/) by [deeplearning.ai](https://www.deeplearning.ai/).
